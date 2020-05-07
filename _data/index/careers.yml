@@ -1,0 +1,45 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Digibank Taiwan by DBS
+    i18n: company_b
+  desc:
+    detail: Worked on Digibank application for Taiwan.<p>My Responsibilities :- <br>
+      1) Worked on MVP architecture patterns. <br>
+      2) Familiar with various tools like Jenkins, Jira, bitbucket. <br>
+      3) Fluency in Git. <br>
+      4) Worked on Model view model patterns. <br>
+      5) Worked on Micro frontends for Android studio. <br>
+      6) Worked on several UI components. <br>
+      7) Worked on testing tools like Espresso and Mockito for the code coverage. <br>
+      8) Following Agile techniques. <br>
+      9) Worked on Retrofit for api integrations. <br>
+      10) Familiar with builf variants and flavours for product releases</p>
+    i18n: company_b_desc
+  date:
+    detail: Jan 2019 - Present
+    i18n: company_b_date
+  job:
+    detail: Android Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Digibank India by DBS
+    i18n: company_a
+  desc:
+    detail: Worked on Digibank application for India.<p>My Responsibilities :- <br>
+      1) Ensure applications are properly integrated with Android APIs.(Retrofit) <br>
+      2) Worked on default architecture pattern like Model View Controller (MVC) <br>
+      3) Worked on Unit and functional testing tools like Espresso , Mockito. <br>
+      4) Known for writing efficient, maintainable, and reusable code. <br>
+      5) Proficient in design, data structures, problem-solving, and debugging. <br> </p>
+    i18n: company_a_desc
+  date:
+    detail: July 2018 - Jan 2019
+    i18n: company_a_date
+  job:
+    detail: Android Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
