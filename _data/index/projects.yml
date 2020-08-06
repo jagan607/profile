@@ -7,11 +7,11 @@
   img: /static/assets/img/landing/ml.png
   desc: We study the performances of various different classifiers that recognises the patterns with different accuracies.The audio processing is considered frame by frame.We discuss the application of Convolutional Neural Networks and Convolutional Recurrent Neural Networks with transfer learning techniques to recognise the genre of the given song.
 
-- name: IDify for HackIndia 2015, Bangalore
-  i18n: idify
-  url:  https://github.com/abhijeet1997/Identico-HackIndia-2015
+- name: Suicide Analysis
+  i18n: ml
+  url:  https://github.com/abhijeet1997/Suicide-Analysis
   img: /static/assets/img/landing/hack.png
-  desc: Made an android app that can verify the user on the basis of PAN, Adhaar, Voter, Driving License from the goverment's database. Verification takes place from the respective self made Python CGI based APIs. <br> It helps people and officials verify people's identity just a click away. It helps people avoiding forgery.A common platform to verify various IDs which has'nt been unified before altogether. This is improved UI and hassle free application.
+  desc: Statewise analysis of Suicidal deaths in India for the last 10 years.
 
 - name: Covid Stats
   i18n: jalpc
@@ -25,11 +25,11 @@
   img: /static/assets/img/landing/forex.png
   desc: Worked with Angular 5 for scalability and performance and Implemented rest APIs for maintaining secured and independent structure and also used Hibernate for building backend apis and tomcat for mock deployment.
 
-- name: Chatapp
+- name: Student Grades Analysis
   i18n: google
-  url: https://github.com/abhijeet1997/Chatapp
+  url: https://github.com/abhijeet1997/Data_sceince
   img: /static/assets/img/landing/chata.png
-  desc: Developed an Android app in which users can chat with random people who has signed up.
+  desc: A simple plot which anaylzes the distribution of classroom visits in the first week for students who pass and fail the project from a csv file.
 
 - name: Restaurant Finder
   i18n: python
@@ -37,9 +37,8 @@
   img: /static/assets/img/landing/python.png
   desc: Restaurant finder is a python based API which helps the users to find the restaurants on their given interests and location.
 
-- name: File uploader for android
+- name: Twitter timeline Analysis
   i18n: file
-  url: https://github.com/abhijeet1997/FileUploader
+  url: https://github.com/abhijeet1997/tweepy
   img: /static/assets/img/landing/android.png
-  desc: This uploading method can be used when the api does not support MULTI-PARTING to where the file should be uploaded. It sends the file in single stream.
-
+  desc: Analysis of Twitter feed using tweepy for finding trends.
