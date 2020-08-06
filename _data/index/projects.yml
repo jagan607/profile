@@ -10,7 +10,7 @@
 - name: Suicide Analysis
   i18n: ml
   url:  https://github.com/abhijeet1997/Suicide-Analysis
-  img: /static/assets/img/landing/hack.png
+  img: /static/assets/img/landing/python.png
   desc: Statewise analysis of Suicidal deaths in India for the last 10 years.
 
 - name: Covid Stats
@@ -28,7 +28,7 @@
 - name: Student Grades Analysis
   i18n: google
   url: https://github.com/abhijeet1997/Data_sceince
-  img: /static/assets/img/landing/chata.png
+  img: /static/assets/img/landing/ml.png
   desc: A simple plot which anaylzes the distribution of classroom visits in the first week for students who pass and fail the project from a csv file.
 
 - name: Restaurant Finder
@@ -40,5 +40,5 @@
 - name: Twitter timeline Analysis
   i18n: file
   url: https://github.com/abhijeet1997/tweepy
-  img: /static/assets/img/landing/android.png
+  img: /static/assets/img/landing/python.png
   desc: Analysis of Twitter feed using tweepy for finding trends.
