@@ -5,7 +5,7 @@
   i18n: ml
   url: http://www.acadpubl.eu/hub/2018-120-6/2/115.pdf
   img: /static/assets/img/landing/ml.png
-  desc: We study the performances of various different classifiers \n that recognises the patterns with different accuracies.The audio processing is considered frame by frame.We discuss the application of Convolutional Neural Networks and Convolutional Recurrent Neural Networks with transfer learning techniques to recognise the genre of the given song.
+  desc: We study the performances of various different classifiers that recognises the patterns with different accuracies.The audio processing is considered frame by frame.We discuss the application of Convolutional Neural Networks and Convolutional Recurrent Neural Networks with transfer learning techniques to recognise the genre of the given song.
 
 - name: Suicide Analysis
   i18n: ml
