@@ -5,9 +5,9 @@ title: Jalpc
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /profile # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://jagan607.github.io/profile  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://abhijeet1997.github.io/profile  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-site_url: https://jagan607.github.io/profile
+site_url: https://abhijeet1997.github.io/profile
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -16,9 +16,9 @@ author:  # change following line to your infomation.
   first_name: Jaganmohan  # Be used at index page about me section.
   last_name: Kottapally  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jagan607  # Leave blank if you don't have now
+  github_username: abhijeet1997  # Leave blank if you don't have now
   linkedin_id: kjaganmohan # Leave blank if you don't have now
-  facebook_username:   # Leave blank if you don't have now
+  facebook_username: jiakunnj  # Leave blank if you don't have now
   email: jaganmohan19972016@gmail.com  # Leave blank if you don't have now
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz

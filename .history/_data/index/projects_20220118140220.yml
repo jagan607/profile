@@ -7,12 +7,6 @@
   img: /static/assets/img/landing/ml.png
   desc: We study the performances of various different classifiers that recognises the patterns with different accuracies.The audio processing is considered frame by frame.We discuss the application of Convolutional Neural Networks and Convolutional Recurrent Neural Networks with transfer learning techniques to recognise the genre of the given song.
 
-- name: Refer Me
-  i18n: ml
-  url:  https://refme.in
-  img: /static/assets/img/landing/forex.png
-  desc: Statewise analysis of Suicidal deaths in India for the last 10 years.
-
 - name: Suicide Analysis
   i18n: ml
   url:  https://github.com/abhijeet1997/Suicide-Analysis
@@ -37,3 +31,14 @@
   img: /static/assets/img/landing/ml.png
   desc: A simple plot which anaylzes the distribution of classroom visits in the first week for students who pass and fail the project from a csv file.
 
+- name: Restaurant Finder
+  i18n: python
+  url: https://github.com/abhijeet1997/Restaurant-Finder
+  img: /static/assets/img/landing/python.png
+  desc: Restaurant finder is a python based API which helps the users to find the restaurants on their given interests and location.
+
+- name: Twitter timeline Analysis
+  i18n: file
+  url: https://github.com/abhijeet1997/tweepy
+  img: /static/assets/img/landing/python.png
+  desc: Analysis of Twitter feed using tweepy for finding trends.

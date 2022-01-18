@@ -1,35 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Kaspr Pvt Ltd
-    i18n: company_d
-  desc:
-    detail: Co founded a consultancy firm <p>About Kaspr :- <br>
-     Kaspr is a new-age software development company. We deliver full-cycle services that cover all aspects of Software Engineering. Whether you are a startup or a major corporation, through intensive two-way communication, we gain deep insights into your business vision, bringing you the most optimal suite and cost-effective solutions.</p>
-    i18n: company_d_desc
-  date:
-    detail: Sep 2021 - Present
-    i18n: company_d_date
-  job:
-    detail: Co Founder, Full stack developer
-    i18n: company_d_job
-  icon: fa-plus-square
-
-- name:
-    detail: Digibank Singapore by DBS
-    i18n: company_c
-  desc:
-    detail: Worked on Digibank application for Singapore.<p>My Responsibilities :- <br>
-     Responsible for basic banking functionalities like money transfer , investments, Debit cards and Dashboards on Android platform. These functionalities are being used in many Digibank applications as micro frontends.</p>
-    i18n: company_c_desc
-  date:
-    detail: Sep 2020 - Sep 2021
-    i18n: company_c_date
-  job:
-    detail: Application Developer
-    i18n: company_c_job
-  icon: fa-plus-square
-- name:
     detail: Digibank Taiwan by DBS
     i18n: company_b
   desc:
@@ -46,7 +17,7 @@
       10) Familiar with builf variants and flavours for product releases</p>
     i18n: company_b_desc
   date:
-    detail: Jan 2019 - Aug 2020
+    detail: Jan 2019 - Present
     i18n: company_b_date
   job:
     detail: Android Developer
